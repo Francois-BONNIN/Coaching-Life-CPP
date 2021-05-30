@@ -1,5 +1,5 @@
 <center> <h2> Projet Developpement Logiciel </h2> </center>
-<center><img src="https://cdn.discordapp.com/attachments/522143202426224654/848563342812774450/unknown.png"></center>
+<center><img src="https://cdn.discordapp.com/attachments/522143202426224654/848563342812774450/unknown.png" height="100px"></center>
 
 > Membres : François BONNIN et Rémi FALCATI
 
@@ -20,12 +20,8 @@ Pour accéder au code source de l'application, c'est par [ici](https://github.co
 
 La base de donnée local utilisé pour l'application, se nomme `database.sqlite` et se trouve [ici](https://github.com/Francois-BONNIN/Coaching-Life-CPP/tree/main/build-ToDoList-Desktop_Qt_5_15_2_MinGW_64_bit-Debug)
 
-### Moodboard :
-
-<img src="https://media.discordapp.net/attachments/522143202426224654/838509180578693170/unknown.png" width="900px">
-
 ---
-
+![](https://media.discordapp.net/attachments/522143202426224654/848612436549828618/unknown.png)
 ### Contact
 
 François BONNIN - francois.bonnin@ynov.com
