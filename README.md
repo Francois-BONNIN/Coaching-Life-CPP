@@ -6,9 +6,19 @@
 ## API
 
 Télécharger le projet, copier le dossier **api-coaching** dans le dossier www/ de votre laragon.
-Ouvrer le terminal et lancer
+Ouvrer le terminal et lancer `php artisan migrate:refresh` pour réactualiser les migrations des tables puis `php artisan db:seed` pour y injecter les données (tâches Coaching Life et catégories).
+
 Pour démarrer l'api, lancer la commande `php -S localhost:8000 -t ./public`.
 
+
+## Code Source
+
+Pour accéder au code source de l'application, diriger vous [ici](https://github.com/Francois-BONNIN/Coaching-Life-CPP/tree/main/ToDoList)
+
+
+## Base de donnée (local)
+
+La base de donnée local utilisé pour l'application, se nomme `database.sqlite` et se trouve [ici](https://github.com/Francois-BONNIN/Coaching-Life-CPP/tree/main/build-ToDoList-Desktop_Qt_5_15_2_MinGW_64_bit-Debug)
 
 ### Moodboard :
 
