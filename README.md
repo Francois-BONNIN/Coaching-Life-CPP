@@ -13,7 +13,7 @@ Pour démarrer l'api, lancer la commande `php -S localhost:8000 -t ./public`.
 
 ## Code Source
 
-Pour accéder au code source de l'application, diriger vous [ici](https://github.com/Francois-BONNIN/Coaching-Life-CPP/tree/main/ToDoList)
+Pour accéder au code source de l'application, c'est par [ici](https://github.com/Francois-BONNIN/Coaching-Life-CPP/tree/main/ToDoList) !
 
 
 ## Base de donnée (local)
