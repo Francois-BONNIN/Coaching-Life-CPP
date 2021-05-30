@@ -1,7 +1,13 @@
 <center> <h2> Projet Developpement Logiciel </h2> </center>
 <center><img src="https://cdn.discordapp.com/attachments/522143202426224654/848563342812774450/unknown.png" height="100px"></center>
 
-> Membres : François BONNIN et Rémi FALCATI
+> Créateur : François BONNIN et Rémi FALCATI
+
+## Exécutable
+
+L'exécutable de notre logiciel se trouve dans le fichier _Coaching-Life exe.zip_. 
+
+Le fichier _.bat_ situé à l'intérieur est un raccourci exécutant le chemin _"Coaching Life\debug\ToDoList.exe"_.
 
 ## API
 
